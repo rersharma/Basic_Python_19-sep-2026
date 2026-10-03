@@ -1,2 +1,2 @@
-a=[123,44.4,22]
+a={"Name":"John", "Age":30, "City":"New York"}
 print(a)
