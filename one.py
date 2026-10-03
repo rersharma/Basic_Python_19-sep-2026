@@ -1,2 +1,2 @@
-a={12,44,333}
+a={"Name":"John", "Age":30, "City":"New York"}
 print(a)
